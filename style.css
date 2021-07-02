@@ -5,7 +5,7 @@ body{
 #header{
 background-image: url("image/header-bg.png");
 height: 200px;
-
+padding-bottom: 300px;
 background-repeat: no-repeat;
 }
 .name{
@@ -34,8 +34,33 @@ background-repeat: no-repeat;
 }
 .dream{
     background-image: url("image/biography-bg.png");
-    height: 200px;
+    height: 800px;
     background-repeat: no-repeat;
     background-position: left;
+    padding-bottom: 600px;
+    
 
 }
+
+.third-width{
+    width: 28%;
+    float: left;
+    padding-bottom: 200px;
+   padding-left: 10px;
+    margin-left: 3%;
+    
+}
+
+.work{
+height: 200px;
+
+}
+
+.third-width img{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
