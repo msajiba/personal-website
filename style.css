@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+#header{
+background-image: url("image/header-bg.png");
+height: 200px;
+
+background-repeat: no-repeat;
+}
+.name{
+    color: red;
+    font-weight: bold;
+    font-size: 36px;
+    
+}
+.link-button{
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 0px solid;
+    background-image: linear-gradient(tomato,rgb(185, 94, 71));
+    border-radius: 5px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2px;
+    padding-top: 10%;
+}
+.half-width img{
+    width: 100%;
+}
+.dream{
+    background-image: url("image/biography-bg.png");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
